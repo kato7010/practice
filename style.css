@@ -73,10 +73,10 @@ a{
 
 img{
 	width:100%;
-    max-width:100%;
+    	max-width:100%;
 	height:auto;
-    aspect-ratio:4 / 3;
-    object-fit: cover;
+    	aspect-ratio:4 / 3;
+    	object-fit: cover;
 	
 	}
 	
@@ -111,8 +111,8 @@ img{
 ===============================*/
 .header-wrapper{
 	height:104px;
-    display: flex;
-    align-items: center;
+    	display: flex;
+    	align-items: center;
 	
 	}
 
